@@ -1,8 +1,10 @@
-Titlepage for LPNU reports
-====
+#Titlepage for LPNU reports
+
 Typeset LaTeX title page for reports and other types of works
+
+![Screenshot](https://raw.githubusercontent.com/electrocicada/lpnu-titlepage/main/images/titlepage.jpg "Screenshot")
 ##Requirements
-There are several packages in this document related to the encoding and the special characters.
+There are several packages in this document related to the encoding and the special characters.  
 Font encoding:
 ```
 \usepackage[T2A]{fontenc}
