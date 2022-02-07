@@ -1,9 +1,10 @@
-#Titlepage for LPNU reports
+# Titlepage for LPNU reports
 
 Typeset LaTeX title page for reports and other types of works
 
+## Screenshot
 ![Screenshot](https://raw.githubusercontent.com/electrocicada/lpnu-titlepage/main/images/titlepage.jpg "Screenshot")
-##Requirements
+## Requirements
 There are several packages in this document related to the encoding and the special characters.  
 Font encoding:
 ```
@@ -22,7 +23,7 @@ The title page also contains the logo. These packages are required for correct d
 \usepackage{graphicx}
 \graphicspath{{images/}} 
 ```
-##Use keywords to define titlepage attributes
+## Use keywords to define titlepage attributes
 ```
 \newcommand\Type{лабораторної роботи}
 \newcommand\Number{№1}
